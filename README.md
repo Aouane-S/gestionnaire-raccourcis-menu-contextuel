@@ -34,6 +34,6 @@ Sélectionnez l'action souhaitée :
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone https://github.com/votreutilisateur/gestionnaire-raccourcis-menu-contextuel.git
+   git clone https://github.com/Aouane-S/gestionnaire-raccourcis-menu-contextuel
    cd gestionnaire-raccourcis-menu-contextuel
 
